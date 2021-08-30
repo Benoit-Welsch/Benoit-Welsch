@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, i'm Benoit Welsch and i'm happy to see you 👋
+
+- 🔭 I’m currently working on some random web-scrapper
+- 🌱 I’m learning React (Back > Front)
+- 💬 Ask me questions about web scraping (I'm a beast)
+- 📫 Contact: [~~Contact From~~](https://lv0.eu/contact) or by [mail](mailto:benoitwelsch@hotmail.com)
+- 🐱‍👤 [Web site](https://lv0.eu "Don't judge me pls")
+<!--
+- ⚡ I'm currently a marine for the Belgian Naval Component (Navy).
+-->
 
 <!--
 **Benoit-Welsch/Benoit-Welsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
