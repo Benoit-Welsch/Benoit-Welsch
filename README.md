@@ -1,9 +1,8 @@
-### Hi there, i'm Benoit Welsch and i'm happy to see you 👋
+### You've lost your way 💩
 
-- 🔭 I’m currently working on a shiny pokemon Farmer for BD/SP ([SFP_BD-SP](https://github.com/Benoit-Welsch/SFP_BD-SP))
-- 🌱 I’m learning keras
-- 💬 Ask me questions about web scraping (I'm a beast)
-- 📫 Contact: [~~Contact From~~](https://lv0.eu/contact) or by [mail](mailto:benoitwelsch@hotmail.com)
+- 🔭 I’m currently working on the automation of my job
+- 🌱 I’m learning government software
+- 🏬 I'm currently working for the SPF Finances of belgium
 - 😒 [Web site](https://lv0.eu "Don't judge me pls")
 
 <!--
