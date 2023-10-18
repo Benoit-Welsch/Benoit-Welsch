@@ -1,21 +1,13 @@
-### You've lost your way 💩
+### Hi there 👋
 
-- 🔭 I’m currently working on the automation of my job
-- 🌱 I’m learning government software
-- 🏬 I'm currently working for the SPF Finances of belgium
-- 😒 [Web site](https://lv0.eu "Don't judge me pls")
+I'm Benoit Welsch 🤡, a software developer currently working for the SPF Finances of Belgium.
+I'm passionate about web automation, and I'm always looking for ways to automate and reduce my work.
 
-<!--
-**Benoit-Welsch/Benoit-Welsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Working on:** Automating my job
+- 🌱 **Learning:** Svelte and bun
+- 🏬 **Work:** SPF Finances of belgium
+- 🔗 [Web site](https://lv0.eu "Don't judge me pls")
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You don't and why would you 😅.
