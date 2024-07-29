@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Benoit Welsch 🤡, a software developer currently working for the SPF Finances of Belgium.
+I'm Benoit Welsch, a software developer currently working for the SPF Finances of Belgium.
 I'm passionate about web automation, and I'm always looking for ways to automate and reduce my work.
 
 - 🔭 **Working on:** Automating my job
-- 🌱 **Learning:** Svelte and bun
+- 🌱 **Working with:** Svelte and bun
 - 🏬 **Work:** SPF Finances of belgium
-- 🔗 [Web site](https://lv0.eu "Don't judge me pls")
+- 🐌 **Strava** [Profile](https://www.strava.com/athletes/129479586)
+- 🔗 [Web site](https://lv0.eu "You are lost")
 
 ### 📫 How to reach me:
 
